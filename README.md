@@ -90,3 +90,10 @@ Abre el navegador en `http://localhost:5000` para ver la documentación Swagger.
 | `app/routes.py` | Endpoints de la API |
 | `run.py` | Punto de entrada del servidor |
 | `.env` | Variables de entorno |
+
+
+  ![pruebas](https://github.com/natalyvictoria-jpg/3.7.-Resolver-problema-mediante-una-API
+/raw/main/db.jpeg)
+
+    ![pruebas](https://github.com/natalyvictoria-jpg/3.7.-Resolver-problema-mediante-una-API
+/raw/main/swagger.jpeg)
