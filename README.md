@@ -7,6 +7,16 @@
   🌐💻 APLICACIONES WEB ORIENTADA A SERVICIOS
 </h1>
 
+## GTID153
+
+📘 **Materia:** Aplicaciones Web Orientada a Servicios  
+👩‍💻❤️ **Nombre:** Nataly Victoria Gonzalez Aviles  
+🏫 **Proyecto o Actividad:** 3.7.-Resolver-problema-mediante-una-API
+📅 **Unidad:** 3  
+⚙️ **Lenguaje:** Python  
+🧠 **Propósito:** Desarrollar aplicaciones web utilizando APIs diferentes, aplicando los conocimientos adquiridos en la unidad 3 y comprendiendo su funcionamiento mediante su implementación en Python.  
+👨‍🏫 **Docente:** Anastacio Rodriguez Garcia
+
 # 🎓 API Estudiantes - ITIC
 
 API REST desarrollada en Python con Flask y PostgreSQL para el registro 
